@@ -4,7 +4,7 @@
 clear
 figlet "HACK-WIFI" | lolcat
 echo "--------------------------------" | lolcat
-echo "|Author   : 3RR0R              |" | lolcat
+echo "|Author   : Mr.MOC             |" | lolcat
 echo "|FB       : Moreno ID          |" | lolcat
 echo "|Thanks To: Allah S.W.T        |" | lolcat
 echo "|Github   : Moreno-ID          |" | lolcat
